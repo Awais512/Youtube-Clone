@@ -3,7 +3,7 @@
 //export { default as Loader } from './Loader';
 // export { default as SearchBar } from './SearchBar';
 // export { default as Videos } from './Videos';
-// export { default as Sidebar } from './Sidebar';
+export { default as SideBar } from "./SideBar";
 
 export { default as SearchBar } from "./SearchBar";
 
