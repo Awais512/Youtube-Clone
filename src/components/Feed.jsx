@@ -33,7 +33,7 @@ const Feed = () => {
           variant="body2"
           sx={{ mt: 1.5, color: "#fff" }}
         >
-          Copyright 2022 Awais Chaudhary
+          Copyright 2022 Awais
         </Typography>
       </Box>
       <Box p={2} sx={{ overflowY: "auto", height: "90vh", flex: 2 }}>
