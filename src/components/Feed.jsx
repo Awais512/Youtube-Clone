@@ -1,6 +1,5 @@
 import { useState, useEffect } from "react";
 import { Box, Stack, Typography } from "@mui/material";
-import { BorderRight } from "@mui/icons-material";
 import { SideBar, Videos } from ".";
 import { fetchFromAPI } from "../utils/fetchFromApi";
 
